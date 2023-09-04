@@ -11,7 +11,7 @@ profile:
   address: >
     <p>3380.11</p>
     <p>Lindner Hall</p>
-    <p>Cincinnati, Ohio 45219</p>
+    <p>Cincinnati, Ohio</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
